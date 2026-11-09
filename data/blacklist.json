@@ -1,0 +1,35 @@
+{
+  "_הסבר": "מיילים שמתאימים לאחד הכללים לא מאונדקסים בכלל. ההתאמה לא תלויה באותיות גדולות/קטנות. sender_domains תופס גם תת-דומיינים (mail.leumi.co.il). keywords נבדקות בנושא ובגוף.",
+  "senders": [],
+  "sender_domains": [
+    "bankhapoalim.co.il",
+    "leumi.co.il",
+    "discountbank.co.il",
+    "mizrahi-tefahot.co.il",
+    "fibi.co.il",
+    "bank-yahav.co.il",
+    "mercantile.co.il",
+    "isracard.co.il",
+    "cal-online.co.il",
+    "max.co.il",
+    "clalit.co.il",
+    "maccabi4u.co.il",
+    "meuhedet.co.il",
+    "leumit.co.il"
+  ],
+  "keywords": [
+    "קוד אימות",
+    "קוד האימות",
+    "קוד חד-פעמי",
+    "קוד חד פעמי",
+    "סיסמה חד פעמית",
+    "איפוס סיסמה",
+    "איפוס הסיסמה",
+    "verification code",
+    "one-time password",
+    "one-time code",
+    "security code",
+    "password reset",
+    "reset your password"
+  ]
+}

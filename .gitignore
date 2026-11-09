@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# אינדקסים (Chroma), טבלת אנשי קשר ורשימת Message-ID. של התיבה האמיתית זה מידע רגיש.
+storage/
+
+# ייצוא Takeout של התיבה האמיתית
+data/private/
+
+# קורא Gmail API (בונוס): הרשאות ו-token
+token.json
+credentials*.json
+client_secret*.json
+
+# דף צפייה בתיבת הדמו. נוצר מחדש עם demo/view_mailbox.py
+data/demo/demo_viewer.html
+
+# הגדרות PyCharm
+.idea/
